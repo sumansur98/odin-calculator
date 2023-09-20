@@ -1,0 +1,15 @@
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-top: 10rem;
+}
+
+#calculator {
+    height: 41rem;
+    width: 39rem;
+    background-color: bisque;
+    border-radius: 1rem;
+}
+
