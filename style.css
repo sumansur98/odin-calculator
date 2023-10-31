@@ -11,5 +11,23 @@
     width: 39rem;
     background-color: bisque;
     border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
 }
 
+#calculator-display{
+    height : 7rem;
+    width : 35rem;
+    background-color: gray;
+}
+
+#calculator-body{
+    height: 29rem;
+    width: 35rem;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
